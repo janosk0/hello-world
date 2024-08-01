@@ -13,4 +13,4 @@
      COPY . .
 
      EXPOSE 8080
-     CMD [ "node", "helloworld.js" ]i
+     CMD [ "node", "helloworld.js" ]
